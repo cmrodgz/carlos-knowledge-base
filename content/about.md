@@ -1,0 +1,1 @@
+My name is Carlos Marin Rodriguez. I am 21 years old and live in Waco, Texas. I am on my last year of my Bachelor's Degree at TTU online, while also working at my full-time job. I like to play video games, workout, and watch sports on my free time. 

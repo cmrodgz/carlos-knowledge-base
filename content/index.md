@@ -1,6 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "# The Video Game Market: Product Performance & Consumer Appeal"
 ---
+## Introduction 
+This knowledge base will explore the factors influencing the success and failure of video games in the consumer market. This topic is directed towards exploring the business and financial aspect of the video game market. 
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
