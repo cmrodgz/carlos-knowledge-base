@@ -2,7 +2,8 @@
 title: "The Video Game Market: Commercial Success and Failure"
 ---
 ## Introduction 
-This knowledge base will explore the factors influencing the success and failure of video games in the consumer market. This topic is directed towards exploring the business and financial aspect of the video game market. 
+
+This knowledge base will explore the factors influencing the success and failure of video games in the consumer market. This topic is directed towards exploring the business and financial aspects of the video game market. 
 
 ## Main Categories
 
