@@ -5,6 +5,15 @@ title: Sales Performance
 
 Sales performance is one of the best available methods to measure a video games success in the consumer market. Copies sold, downloads, and digital purchases all provide insight onto how consumers view a product and how likely they are to spend money to support it. However, sales numbers do not always show the complete picture for a game, as games with higher marketing and development costs require much higher sales to be profitable. 
 
+### Video Game Industry Sales (2002-2025)
+
+![[video-game-sales-chart-2026-09-19 112223.png]]
+**Source:** [Entertainment Software Association (ESA)](https://www.theesa.com/resources/essential-facts-about-the-us-video-game-industry/2026-data/)
+
+### Industry Report (2025)
+
+![[2025-Essential-Facts-Booklet-05-30-25-RGB.pdf]]
+**Source:** [Entertainment Software Association (ESA), 2025 Essential Facts](https://www.theesa.com/wp-content/uploads/2025/06/2025-Essential-Facts-Booklet-05-30-25-RGB.pdf)
 
 ## Factors Influencing Sales
 
