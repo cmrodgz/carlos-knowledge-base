@@ -1,5 +1,6 @@
 ---
 title: Product Performance
+date: 2026-10-01
 ---
 # Product Performance
 
