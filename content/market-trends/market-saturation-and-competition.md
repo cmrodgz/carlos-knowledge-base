@@ -8,6 +8,8 @@ There are a large amount of publishers, developers, and platforms all fighting f
 
 Market competition is the rivalry between companies and platforms to be more attractive to the consumer. When a market is saturated, it means that a particular market has numerous competing options for the consumer to choose from. 
 
+![[Pasted image competition 20261002152051.png]]
+*Image of some of the biggest competitors in the video game market*
 ## Consumer Spending
 
 Companies focus a lot of effort on convincing consumers that their product provides enough value to warrant a purchase and their money. These companies understand that the average consumer has a limited amount of money for entertainment and that when they spend on a certain game, there will be less money left for purchases on another game. These decisions are examined more closely in [[player-purchasing-decisions|Player Purchasing Decisions]]. 
