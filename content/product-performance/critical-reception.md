@@ -1,7 +1,7 @@
 ---
 title: Critical Reception
 ---
-# Critical Reception
+# Overview
 
 Critical reception in the video game industry is the response received from professional reviewers, journalists, and other critics. These reviews are important because it influences the way the consumer perceives the game and can be the deciding factor to whether or not they purchase the product. While a good or bad review does not always entail how the product will perform, critic reception is a major contributing factor to a video game's reputation and has significant impact on how the game performs in the market. 
 

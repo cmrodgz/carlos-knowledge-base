@@ -1,7 +1,7 @@
 ---
 title: Commercial Success and Failure
 ---
-## Commercial Success and Failure
+# Overview
 
 The commercial success and failure of a video game is determined by several different factors. Sales are important, but other factors that should be considered are marketing expenses, long-term revenue, critical reception, player engagement, and development costs. Games can sell millions of copies, but still end up not being profitable because of outside expenses. 
 

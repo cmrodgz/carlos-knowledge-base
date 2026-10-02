@@ -1,7 +1,7 @@
 ---
 title: Player Retention
 ---
-## Player Retention
+# Overview
 
 Player retention is a game's ability to keep the player engaged and playing after purchasing or downloading the game. Retention is more vital for games dependent on long-term engagement, such as live-service games, multiplayer games, and free-to-play titles. For these games, having a large initial audience does not mean it successful, as for long-term success keeping their numbers consistent is better than having a high peak and a sharp drop off in players. 
 Retention is not as important for single player games, as they do not need to keep the player long-term and do not need to spend more money on constant online servers and updates. 

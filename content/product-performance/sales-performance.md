@@ -1,7 +1,7 @@
 ---
 title: Sales Performance
 ---
-# Sales Performance
+# Overview
 
 Sales performance is one of the best available methods to measure a video games success in the consumer market. Copies sold, downloads, and digital purchases all provide insight onto how consumers view a product and how likely they are to spend money to support it. However, sales numbers do not always show the complete picture for a game, as games with higher marketing and development costs require much higher sales to be profitable. 
 

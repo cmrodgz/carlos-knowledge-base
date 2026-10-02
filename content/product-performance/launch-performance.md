@@ -1,7 +1,7 @@
 ---
 title: Launch Performance
 ---
-## Launch Performance
+# Overview
 
 A game's launch is the time period right after the initial release to consumers. This period is very important because it can set the precedent for how the game will perform long-term and is how a large portion of the outside public will see the game for the first time. Having a strong launch can boost momentum that can carry the game throughout it's entire life cycle, while a weak launch can make it for a game to never be able to recover or become profitable. 
 
